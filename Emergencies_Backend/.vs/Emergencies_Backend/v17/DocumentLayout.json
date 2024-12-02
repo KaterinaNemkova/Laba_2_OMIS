@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\models\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\models\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\repositories\\configurationrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\repositories\\configurationrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\repositories\\monitoringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\repositories\\monitoringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\views\\monitoringview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\views\\monitoringview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\controllers\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\controllers\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\controllers\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\controllers\\notidicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\controllers\\notidicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043E\u043C\u0438\u0441\\laba_2\\emergencies_backend\\emergencies_backend\\controllers\\incidentlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5D4A97-CB52-4A68-8C81-518A3B85FB57}|Emergencies_Backend\\Emergencies_Backend.csproj|solutionrelative:emergencies_backend\\controllers\\incidentlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 508,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Models\\Configuration.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Models\\Configuration.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Models\\Configuration.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Models\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:45:35.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationRepositoryImpl.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Repositories\\ConfigurationRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Repositories\\ConfigurationRepositoryImpl.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Repositories\\ConfigurationRepositoryImpl.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Repositories\\ConfigurationRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:45:07.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonitoringView.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Views\\MonitoringView.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Views\\MonitoringView.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Views\\MonitoringView.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Views\\MonitoringView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:43:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonitoringRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Repositories\\MonitoringRepository.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Repositories\\MonitoringRepository.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Repositories\\MonitoringRepository.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Repositories\\MonitoringRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:42:26.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Application\\Application.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Application\\Application.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Application\\Application.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Application\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:47:11.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigurationController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\ConfigurationController.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Controllers\\ConfigurationController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\ConfigurationController.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Controllers\\ConfigurationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:30:17.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotidicationController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\NotidicationController.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Controllers\\NotidicationController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\NotidicationController.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Controllers\\NotidicationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:30:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IncidentLogController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\IncidentLogController.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Controllers\\IncidentLogController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\IncidentLogController.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Controllers\\IncidentLogController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:29:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonitoringController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\MonitoringController.cs",
+              "RelativeDocumentMoniker": "Emergencies_Backend\\Controllers\\MonitoringController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u041E\u041C\u0418\u0421\\Laba_2\\Emergencies_Backend\\Emergencies_Backend\\Controllers\\MonitoringController.cs",
+              "RelativeToolTip": "Emergencies_Backend\\Controllers\\MonitoringController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:29:25.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

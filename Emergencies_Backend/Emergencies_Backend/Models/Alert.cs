@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Emergencies_Backend.Models
+{
+    public class Alert
+    {
+        private readonly int Id;
+        private readonly Incident? Incident;
+        private readonly string Message=string.Empty;
+        private readonly DateTime TimeStump;
+    }
+}
